@@ -1,2 +1,2 @@
 # Weather-Data-Analytics
-The weather API project showcases my skill on how to use API
+A dynamic dashboard that displays real-time weather statistics using third-party APIs. Includes data visualization, location-based queries, and a clean interface. Built with JavaScript, HTML/CSS, and Chart.js.
